@@ -9,4 +9,4 @@ https://upleft-dt.github.io/Lab5/
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+https://github.com/Upleft-DT/github-actions-for-ci
