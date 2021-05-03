@@ -1,11 +1,11 @@
 # CSE110 SP21 Lab 5
 
 ## Author(s):
-- YOUR NAME
+- Dante Tanjuatco
 
-## Part 1:
+## Part 1: 
 
-LINK TO YOUR PUBLISHED SITE
+https://upleft-dt.github.io/Lab5/
 
 ## Part 2:
 
